@@ -1,0 +1,23 @@
+{
+  "name": "learn-jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devtip/learn-jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devtip/learn-jenkins/issues"
+  },
+  "homepage": "https://github.com/devtip/learn-jenkins#readme",
+  "devDependencies": {
+    "lodash": "^4.17.11"
+  }
+}
